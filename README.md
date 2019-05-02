@@ -24,4 +24,6 @@ The final dissimilarity model in this example has the following levels and speci
 [1] "LUNG[OBS] ~ offset(log(LUNGEXP))"
 ln(Rk) =   
 
+
+## Details
 Part of M. Kolak's grad work at ASU (2016)
