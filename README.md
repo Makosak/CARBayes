@@ -23,3 +23,5 @@ The final dissimilarity model in this example has the following levels and speci
 ### Regression equation :
 [1] "LUNG[OBS] ~ offset(log(LUNGEXP))"
 ln(Rk) =   
+
+Part of M. Kolak's grad work at ASU (2016)
